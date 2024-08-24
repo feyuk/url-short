@@ -4,7 +4,7 @@
 <img src="./preview-image.png" alt="preview" width="400"/>
 
 ### About App
-Integration with the shrtcode API (https://shrtco.de/) to create shortened URLs and display them in the website. 
+A simple yet powerful URL shortening service designed to transform long URLs into shorter, more manageable links. Built with Node.js and Express on the backend and React on the frontend, this application provides a robust solution for URL management, featuring link tracking and analytics. Integration with the shrtcode API (https://shrtco.de/) to create shortened URLs and display them in the website. 
 
 Features: 
 
